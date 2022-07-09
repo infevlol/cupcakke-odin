@@ -1,5 +1,5 @@
 # cupcakke-odin
-A mod of the software Odin used for flashing Samsung firmwares created for a Discord server "Techflops"
+A mod of the application "Odin" made to be CupcakKe.
 
 Credits:
 
